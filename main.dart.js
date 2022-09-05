@@ -22082,7 +22082,7 @@ _.as=k
 _.a=l},
 M5:function M5(a){this.a=a},
 du(a){var s=t.l
-return a.E(s).f.a.a<=834&&a.E(s).f.a.a>375},
+return a.E(s).f.a.a<=834&&a.E(s).f.a.a>428},
 Ao:function Ao(a,b,c,d){var _=this
 _.c=a
 _.d=b
@@ -71863,7 +71863,7 @@ $S:451}
 A.FK.prototype={
 G(a,b){var s=null,r=t.l,q=A.bH(s,b.E(r).f.a.a>834?40:25,s),p=b.E(r).f.a.a>834?24:14,o=A.i_(b),n=t.p
 o=A.a([A.ar("Kontakt",s,s,s,o.lC(B.l,b.E(r).f.a.a>834?40:s),s,s),B.DB],n)
-if(b.E(r).f.a.a<=375)o.push(A.aW(A.a([B.fv,q,B.pu,q,B.pt,q,B.pv,q,B.fv,q,B.ps],n),B.v,B.p,B.x))
+if(b.E(r).f.a.a<=428)o.push(A.aW(A.a([B.fv,q,B.pu,q,B.pt,q,B.pv,q,B.fv,q,B.ps],n),B.v,B.p,B.x))
 else o.push(A.ci(A.a([A.cC(A.aW(A.a([B.fv,q,B.pu,q,B.pt],n),B.v,B.p,B.x)),B.Dz,A.cC(A.aW(A.a([B.pv,q,B.fv,q,B.ps],n),B.v,B.p,B.x))],n),B.v,B.p,B.I))
 o.push(B.a3N)
 o.push(A.aqk(B.l,"Ich stimme den AGBs zu.",A.nQ(b).a9i(B.p5,14,1.3)))
@@ -71915,8 +71915,8 @@ G(a,b){var s=this,r=null,q=t.p
 return A.aW(A.a([A.ci(A.a([A.cC(A.ar(s.c,r,r,r,A.aZ(r,r,B.l,r,r,r,r,r,r,r,r,15,r,B.A,r,2,!0,r,r,r,r,r,r,r,r),B.al,r)),B.Dy,A.cC(A.bH(A.ar0(B.H,1/0,s.e,1/0),300,r))],q),B.P,B.p,B.I),B.a3F,A.ci(A.a([A.cC(A.bH(A.ar0(B.H,1/0,s.f,1/0),300,r)),B.Dy,A.cC(A.ar(s.d,r,r,r,A.aZ(r,r,B.l,r,r,r,r,r,r,r,r,15,r,B.A,r,2,!0,r,r,r,r,r,r,r,r),B.al,r))],q),B.P,B.p,B.I)],q),B.v,B.p,B.x)}}
 A.Li.prototype={
 G(a,b){var s=null,r="Karriere",q=t.LG.a(A.b(A.aBk(b).gdN().a,"_state")),p=A.a([B.eX,B.Dt,B.Du,B.Dr,B.Dv,B.Ds],t.JI),o=t.l
-if(!(b.E(o).f.a.a<=375))A.ms(b,!1).vK()
-if(!(b.E(o).f.a.a<=375)){o=t.l7
+if(!(b.E(o).f.a.a<=428))A.ms(b,!1).vK()
+if(!(b.E(o).f.a.a<=428)){o=t.l7
 o=A.Z(A.am8(6,new A.a4a(p,q),o),!0,o)
 o.push(A.m_(s,3,s,s,8,27,new A.a4b(q),0.8,q.a===B.d2,r,s))
 o=A.amy(A.bH(new A.bu(B.Mc,A.ci(o,B.v,B.Bv,B.x),s),s,800),s,B.aE)}else o=new A.bu(B.pE,A.ci(A.a([new A.t6(new A.a4c(p,q),5,B.a4F.mF(B.k,24,24),A.ai(242,33,33,33),s,t.R3),A.m_(s,3,s,s,0,14,new A.a4d(q),0.8,q.a===B.d2,r,s)],t.p),B.v,B.bZ,B.I),s)
@@ -72011,7 +72011,7 @@ $0(){return B.EC},
 $S:456}
 A.IC.prototype={
 G(a,b){var s=null,r=t.l,q=b.E(r).f,p=A.o2(new A.j9(A.ai(B.e.aq(178.5),125,122,122),B.cC),B.H,B.EP.eN(0).c,1.3),o=t.p,n=A.a([B.cU],o)
-if(b.E(r).f.a.a<=375)n.push(B.ce)
+if(b.E(r).f.a.a<=428)n.push(B.ce)
 n.push(B.Mo)
 return A.to(A.oA(A.a([A.bH(A.lZ(A.aW(n,B.v,B.p,B.I),new A.cB(s,p,s,s,s,s,B.a5),B.bD),q.a.b,s),B.abM,B.abT,B.abX,B.abY,B.abZ,B.ac_,B.ac0],o),B.b6,!1))}}
 A.TM.prototype={
@@ -72020,16 +72020,16 @@ if(b.E(g).f.a.a>834)s=B.Dw
 else s=A.du(b)?B.a3u:B.a3w
 if(b.E(g).f.a.a>834)r=155
 else r=A.du(b)?80:36
-q=b.E(g).f.a.a<=375?B.P:B.fs
+q=b.E(g).f.a.a<=428?B.P:B.fs
 p=A.ar("Vision",i,i,i,A.i_(b).cn(B.K7),i,i)
 o=A.nQ(b)
 n=t.p
-m=A.aW(A.a([p,B.cy,A.ar("Perspektive. Unser Anspruch an uns selbst und an unsere Dienstleistungen sollte schon immer in der Ganzheitlichkeit liegen.\nUm die Bed\xfcrfnisse der Mandanten zu ermitteln, geh\xf6rt f\xfcr uns daher ein umfangreiches Kennenlernen dazu. Wir m\xf6chten nicht nur der Partner f\xfcr Ihre Finanzen und Ihre Unternehmensberatung sein - wir m\xf6chten jeden Mandanten auf pers\xf6nlicher Ebene verstehen lernen, um so seine Individualit\xe4t zu w\xfcrdigen. Dies sch\xe4tzen unsere Mandanten sehr.\nUnser Fokus liegt auf Exklusivit\xe4t. \nBei  SYKZ arbeiten wir mit Menschen zusammen, nicht mit Zahlen. Daher schauen auch wir bei jedem Erstgespr\xe4ch, ob Sie zu uns passen.\n                      ",i,i,i,o,b.E(g).f.a.a<=375?B.f0:B.nC,i)],n),q,B.p,B.x)
+m=A.aW(A.a([p,B.cy,A.ar("Perspektive. Unser Anspruch an uns selbst und an unsere Dienstleistungen sollte schon immer in der Ganzheitlichkeit liegen.\nUm die Bed\xfcrfnisse der Mandanten zu ermitteln, geh\xf6rt f\xfcr uns daher ein umfangreiches Kennenlernen dazu. Wir m\xf6chten nicht nur der Partner f\xfcr Ihre Finanzen und Ihre Unternehmensberatung sein - wir m\xf6chten jeden Mandanten auf pers\xf6nlicher Ebene verstehen lernen, um so seine Individualit\xe4t zu w\xfcrdigen. Dies sch\xe4tzen unsere Mandanten sehr.\nUnser Fokus liegt auf Exklusivit\xe4t. \nBei  SYKZ arbeiten wir mit Menschen zusammen, nicht mit Zahlen. Daher schauen auch wir bei jedem Erstgespr\xe4ch, ob Sie zu uns passen.\n                      ",i,i,i,o,b.E(g).f.a.a<=428?B.f0:B.nC,i)],n),q,B.p,B.x)
 l=A.aW(A.a([A.ar("Mission",i,i,i,A.i_(b).cn(B.K_),i,i),B.cy,A.ar("Innovation.Hochkomplexe Themen in Nischenm\xe4rkten jedem zug\xe4nglich zu machen, der es wertsch\xe4tzen kann - das ist unsere Passion. Wir machen keine klassische Finanz- und Unternehmensberatung. Wir schaffen wirkliche Werte. \nWie wir das tun? Weil wir hinter die Fassade schauen. Indem wir die richtigen Fragen stellen, finden wir f\xfcr Sie die richtigen Antworten.\n                        ",i,i,i,A.nQ(b),B.f0,i)],n),B.P,B.p,B.x)
 k=new A.ap(r,59,r,0)
 j=b.E(g).f.a.a>834?B.a3n:B.a3l
 q=A.a([],n)
-if(b.E(g).f.a.a<=375)q.push(A.aW(A.a([m,B.c4,l],n),B.v,B.p,B.x))
+if(b.E(g).f.a.a<=428)q.push(A.aW(A.a([m,B.c4,l],n),B.v,B.p,B.x))
 else q.push(A.ci(A.a([A.cC(m),B.a3A,A.cC(l)],n),B.P,B.p,B.I))
 q.push(B.c4)
 q.push(A.ar("Team",i,i,i,A.i_(b).cn(B.l),i,i))
@@ -72037,7 +72037,7 @@ q.push(B.dW)
 q=A.a([A.bb(i,new A.bt(B.ac,A.aW(q,B.v,B.p,B.x),i),i,i,B.cE,i,i,k,i)],n)
 p=s.a
 o=s.b
-if(!(b.E(g).f.a.a<=375))q.push(A.bb(i,new A.bt(B.ac,A.ci(A.a([A.i9(new A.lc(B.oi.jy(0,B.H,o),h,i),p),B.eZ,A.i9(new A.lc(B.oj.jy(0,B.H,o),h,i),p),B.eZ,A.i9(new A.lc(B.ok.jy(0,B.H,o),h,i),p)],n),B.P,B.bZ,B.I),i),i,i,B.cE,i,i,k,i))
+if(!(b.E(g).f.a.a<=428))q.push(A.bb(i,new A.bt(B.ac,A.ci(A.a([A.i9(new A.lc(B.oi.jy(0,B.H,o),h,i),p),B.eZ,A.i9(new A.lc(B.oj.jy(0,B.H,o),h,i),p),B.eZ,A.i9(new A.lc(B.ok.jy(0,B.H,o),h,i),p)],n),B.P,B.bZ,B.I),i),i,i,B.cE,i,i,k,i))
 else q.push(A.aW(A.a([new A.lc(B.oi.ec(0,B.H,o,p),h,i),B.cy,new A.lc(B.oj.ec(0,B.H,o,p),h,i),B.cy,new A.lc(B.ok.ec(0,B.H,o,p),h,i)],n),B.v,B.p,B.x))
 q.push(A.bb(i,new A.bt(B.ac,A.aW(A.a([B.a3H,A.ar("Dein Weg mit",i,i,i,A.i_(b).a97(B.l,B.bj),i,i),B.a3L,B.a4H.Fy(j.b,j.a),B.c4,B.cB],n),B.v,B.p,B.x),i),i,i,B.cE,i,i,k,i))
 return A.aW(q,B.v,B.p,B.x)}}
@@ -72050,12 +72050,12 @@ return A.bb(q,A.aW(A.a([A.ar("Referenzen",q,q,q,A.i_(b).cn(B.JH),q,q),B.DB,new A
 A.TK.prototype={
 G(a,b){var s=null,r=t.l,q=b.E(r).f.a.a>834?163:80,p=b.E(r).f.a.a>834?105:65,o=b.E(r).f.a.a>834?B.a3v:B.a3q,n=A.ar("Partner",s,s,s,A.i_(b).cn(B.l),s,s),m=A.ar("VERTRAUEN. Wir beleuchten alle Kooperationspartner immer auf zweierlei Art. \nUnser Team, das sich durch jahrelange Erfahrung auszeichnet, sorgt durch strategische Unternehmensanalysen nicht nur f\xfcr maximale Sicherheit und Transparenz in der Auswahl unserer Partner - uns ist es ebenso wichtig, eine Unternehmenskultur auf Augenh\xf6he zu leben. Daher kennen wir die Inhaber unserer Partnerunternehmen stets pers\xf6nlich.\n            ",s,s,s,A.nQ(b),B.av,s),l=t.p
 m=A.a([n,m,A.bH(s,b.E(r).f.a.a>834?45:20,s)],l)
-if(b.E(r).f.a.a<=375)m.push(A.aW(A.a([A.bb(s,s,B.dj,s,s,73,s,s,s),B.cy,A.bb(s,s,B.dj,s,s,73,s,s,s),B.cy,A.bb(s,s,B.dj,s,s,73,s,s,s)],l),B.v,B.p,B.x))
+if(b.E(r).f.a.a<=428)m.push(A.aW(A.a([A.bb(s,s,B.dj,s,s,73,s,s,s),B.cy,A.bb(s,s,B.dj,s,s,73,s,s,s),B.cy,A.bb(s,s,B.dj,s,s,73,s,s,s)],l),B.v,B.p,B.x))
 else{r=o.a
 n=o.b
 m.push(A.ci(A.a([A.i9(A.bb(s,s,B.dj,s,s,n,s,s,s),r),B.eZ,A.i9(A.bb(s,s,B.dj,s,s,n,s,s,s),r),B.eZ,A.i9(A.bb(s,s,B.dj,s,s,n,s,s,s),r)],l),B.P,B.bZ,B.I))}return A.bb(s,new A.bt(B.ac,A.aW(m,B.v,B.p,B.x),s),B.k,s,s,s,s,new A.ap(q,p,q,p),s)}}
 A.TJ.prototype={
-G(a,b){var s,r,q=null,p=t.l,o=b.E(p).f.a.a>834?333:203,n=b.E(p).f.a.a<=375?30:60,m=B.a4G.V5(o),l=A.i_(b).cn(B.KH),k=A.x9(A.aW(B.Qb,b.E(p).f.a.a<=375?B.P:B.fs,B.p,B.x),q,q,B.dZ,!0,l,q,q,B.bN),j=A.ar("Mit der SYKZ hourglass strategy verfolgen wir eine ganzheitlich neue Herangehensweise in der Finanzberatung. Uns ist aufgefallen, dass bei der Analyse unserer Mandanten ein Thema immer wieder in den Fokus r\xfcckt. Bei der Frage, was unseren Mandanten in der Beratung am wichtigsten ist, kommt fast immer die selbe Antwort: Zeit. Deswegen haben wir es uns zur Aufgabe gemacht, diese knappe und unwiederbringliche Ressource zu unserem Hauptaugenmerk in der Betreuung unserer Mandanten zu machen:\nMehr Zeit f\xfcr Familie. Mehr Zeit f\xfcr die eine Reise, die schon seit Jahren passieren sollte. Mehr Zeit, um das Leben sorgenfrei auszusch\xf6pfen.\n                ",q,q,q,A.nQ(b).cn(B.K1),B.al,q)
+G(a,b){var s,r,q=null,p=t.l,o=b.E(p).f.a.a>834?333:203,n=b.E(p).f.a.a<=428?30:60,m=B.a4G.V5(o),l=A.i_(b).cn(B.KH),k=A.x9(A.aW(B.Qb,b.E(p).f.a.a<=428?B.P:B.fs,B.p,B.x),q,q,B.dZ,!0,l,q,q,B.bN),j=A.ar("Mit der SYKZ hourglass strategy verfolgen wir eine ganzheitlich neue Herangehensweise in der Finanzberatung. Uns ist aufgefallen, dass bei der Analyse unserer Mandanten ein Thema immer wieder in den Fokus r\xfcckt. Bei der Frage, was unseren Mandanten in der Beratung am wichtigsten ist, kommt fast immer die selbe Antwort: Zeit. Deswegen haben wir es uns zur Aufgabe gemacht, diese knappe und unwiederbringliche Ressource zu unserem Hauptaugenmerk in der Betreuung unserer Mandanten zu machen:\nMehr Zeit f\xfcr Familie. Mehr Zeit f\xfcr die eine Reise, die schon seit Jahren passieren sollte. Mehr Zeit, um das Leben sorgenfrei auszusch\xf6pfen.\n                ",q,q,q,A.nQ(b).cn(B.K1),B.al,q)
 l=t.p
 s=A.ci(A.a([new A.jh(4,B.aH,m,q),B.eZ,new A.bu(B.M2,A.bH(k,q,250),q),B.a3E,new A.jh(5,B.aH,new A.bu(B.LX,j,q),q)],l),B.P,B.bZ,B.I)
 r=A.ci(A.a([A.cC(A.aW(A.a([m,B.a3R,k],l),B.v,B.p,B.x)),B.Dz,A.cC(j)],l),B.P,B.bZ,B.I)
@@ -72073,7 +72073,7 @@ else o=A.du(a1)?80:30
 n=t.p
 m=c.b
 l=c.a
-e=a1.E(e).f.a.a<=375?A.aW(A.a([A.ar(j,k,k,k,A.i_(a1).cn(B.ph),k,k),B.bK,new A.ki(B.fc.ec(0,B.H,m,l),i,h,0,k),B.cy,new A.ki(B.od.ec(0,B.H,m,l),g,h,0,k),B.cy,new A.ki(B.fc.ec(0,B.H,m,l),f,h,0,k)],n),B.v,B.p,B.x):A.n3(B.c8,A.a([A.ci(A.a([A.i9(new A.ki(B.fc.jy(0,B.H,m),i,h,d*2,k),l),A.bH(k,k,b),A.i9(new A.ki(B.od.jy(0,B.H,m),g,h,d,k),l),A.bH(k,k,b),A.i9(new A.ki(B.fc.jy(0,B.H,m),f,h,0,k),l)],n),B.P,B.bZ,B.I),A.oW(k,A.ar(j,k,k,k,A.i_(a1).cn(B.ph),k,k),k,k,0,k,0,k)],n),B.bL,k,k)
+e=a1.E(e).f.a.a<=428?A.aW(A.a([A.ar(j,k,k,k,A.i_(a1).cn(B.ph),k,k),B.bK,new A.ki(B.fc.ec(0,B.H,m,l),i,h,0,k),B.cy,new A.ki(B.od.ec(0,B.H,m,l),g,h,0,k),B.cy,new A.ki(B.fc.ec(0,B.H,m,l),f,h,0,k)],n),B.v,B.p,B.x):A.n3(B.c8,A.a([A.ci(A.a([A.i9(new A.ki(B.fc.jy(0,B.H,m),i,h,d*2,k),l),A.bH(k,k,b),A.i9(new A.ki(B.od.jy(0,B.H,m),g,h,d,k),l),A.bH(k,k,b),A.i9(new A.ki(B.fc.jy(0,B.H,m),f,h,0,k),l)],n),B.P,B.bZ,B.I),A.oW(k,A.ar(j,k,k,k,A.i_(a1).cn(B.ph),k,k),k,k,0,k,0,k)],n),B.bL,k,k)
 return A.bb(k,A.aW(A.a([new A.bu(new A.ap(s,0,s,0),r,k),B.aX,new A.bu(new A.ap(q,0,q,0),new A.bt(B.oy,p,k),k),B.aX,new A.bu(new A.ap(o,0,o,0),new A.bt(B.ac,e,k),k)],n),B.v,B.p,B.I),B.k,k,k,k,k,new A.ap(0,63,0,a),k)}}
 A.Ty.prototype={
 G(a,b){var s,r,q,p,o,n,m,l=null,k=t.l
@@ -72081,12 +72081,12 @@ if(b.E(k).f.a.a>834)s=582
 else s=A.du(b)?337:403
 if(b.E(k).f.a.a>834)r=100
 else r=A.du(b)?50:23
-q=b.E(k).f.a.a<=375?B.nE:B.av
+q=b.E(k).f.a.a<=428?B.nE:B.av
 p=b.E(k).f.a.a>834?32:20
 o=A.o2(l,B.H,B.EQ.eN(0).c,1.3)
 n=t.p
 m=A.a([],n)
-if(b.E(k).f.a.a<=375)m.push(B.ce)
+if(b.E(k).f.a.a<=428)m.push(B.ce)
 m.push(A.cC(A.hg(A.aW(A.a([new A.bt(B.Fk,A.ar("Das Leben von morgen schon heute gestalten.",l,l,l,A.qr(b).a8Y(B.bj),q,l),l),B.a3K,new A.bu(B.LU,A.ar("- mit SYKZ",l,l,l,A.aZ(l,l,B.k,l,l,l,l,l,l,l,l,p,l,B.bj,l,l,!0,l,l,l,l,l,l,l,l),l,l),l)],n),B.fs,B.p,B.x),l,l)))
 return A.bb(B.a2,A.aW(m,B.v,B.Bv,B.I),l,l,new A.cB(l,o,l,l,l,l,B.a5),s,l,new A.ap(r,0,r,0),l)}}
 A.Tr.prototype={
@@ -72103,7 +72103,7 @@ if(b.E(k).f.a.a>834)n=100
 else n=A.du(b)?80:30
 m=t.p
 n=A.a([new A.bu(new A.ap(p,0,p,0),o,l),B.aX,new A.bu(new A.ap(n,0,n,0),new A.bt(B.oy,A.ar("Mit dieser Frage besch\xe4ftigen wir uns nun schon lange - und sie hat uns bisher nicht losgelassen.\nDer Wunsch, unseren Mandanten mehr pers\xf6nliche, berufliche und finanzielle Freiheit zu erm\xf6glichen, ist das was uns antreibt. Mit unserer individuellen Betreuung entwickeln wir ganzheitliche Strategien, die zu unseren Mandanten passen. Dabei legen wir vor allem Wert auf den kontinuierlichen, pers\xf6nlichen Austausch. \nIndem wir eng mit unseren Mandanten zusammenarbeiten, finden wir heraus, was sie wirklich bewegt. Dabei haben wir eine zentrale Sache herausgefunden: \nWir haben einen angestellten Maschinenbauingenieur, einen Apotheker und einen Konzerninhaber gefragt, was Ihnen in der Zusammenarbeit mit uns wichtig ist und welche Strategie wir gemeinsam verfolgen wollen. Alle gaben uns intuitiv dieselbe Antwort.\n\u201eZeit - wir wollen mehr Zeit haben.\u201c\nDanach haben wir mit unserem Expertenteam die einzigartige hourglass investment strategy entwickelt, die uns und unseren Mandanten noch besser und effektiver dabei hilft, ihre Motive und Bed\xfcrfnisse zu verstehen.                        \n                ",l,l,l,A.nQ(b),B.av,l),l),l),B.aX],m)
-if(b.E(k).f.a.a<=375){k=r.b
+if(b.E(k).f.a.a<=428){k=r.b
 p=r.a
 n.push(A.amy(A.ci(A.a([B.hZ,B.of.ec(0,B.H,k,p),B.hZ,B.og.ec(0,B.H,k,p),B.hZ,B.oh.ec(0,B.H,k,p),B.hZ],m),B.v,B.p,B.x),l,B.aE))}else{if(b.E(k).f.a.a>834)k=100
 else k=A.du(b)?80:30
@@ -72126,10 +72126,10 @@ A.lc.prototype={
 G(a,b){var s=null,r=A.ai(B.e.aq(127.5),0,0,0)
 return A.n3(B.c8,A.a([this.c,A.oW(0,A.bb(B.aD,A.ar(this.d,s,s,s,A.nQ(b).a98(B.k,1),B.av,s),r,s,s,s,s,B.M9,s),s,s,0,0,s,s)],t.p),B.bL,s,s)}}
 A.Tk.prototype={
-G(a,b){var s,r=null,q=t.l,p=b.E(q).f.a.a>834?B.a3y:B.a3m,o=b.E(q).f.a.a<=375?B.aF:B.aE,n=b.E(q).f.a.a>834?14:10,m=b.E(q).f.a.a>834?12:20
+G(a,b){var s,r=null,q=t.l,p=b.E(q).f.a.a>834?B.a3y:B.a3m,o=b.E(q).f.a.a<=428?B.aF:B.aE,n=b.E(q).f.a.a>834?14:10,m=b.E(q).f.a.a>834?12:20
 if(b.E(q).f.a.a>834)s=139
 else s=A.du(b)?85:r
-q=b.E(q).f.a.a<=375?156:r
+q=b.E(q).f.a.a<=428?156:r
 return A.hg(A.bH(new A.zH(new A.aM(0,1,t.Y),B.LR,new A.ahg(o,p,m,n),B.fj,r,t.nH),s,q),r,r)}}
 A.ahg.prototype={
 $3(a,b,c){var s,r,q,p,o,n,m=this,l=null,k=150-b*150,j=m.b
@@ -72148,14 +72148,14 @@ $0(){},
 $S:0}
 A.IX.prototype={
 G(a,b){var s=null,r=t.l,q=b.E(r).f,p=A.o2(s,B.H,B.iq.eN(0).c,1.3),o=t.p,n=A.a([B.cU],o)
-if(b.E(r).f.a.a<=375)n.push(B.ce)
+if(b.E(r).f.a.a<=428)n.push(B.ce)
 n.push(B.Mi)
 return A.to(A.oA(A.a([A.bH(A.lZ(A.aW(n,B.v,B.p,B.I),new A.cB(s,p,s,s,s,s,B.a5),B.bD),q.a.b,s),B.abG,B.abN],o),s,!1))}}
 A.Tl.prototype={
 G(a,b){var s,r=null,q=A.qr(b),p=t.l
-q=A.ar("Offene Stellenangebote",r,r,r,q,b.E(p).f.a.a<=375?B.al:B.av,r)
+q=A.ar("Offene Stellenangebote",r,r,r,q,b.E(p).f.a.a<=428?B.al:B.av,r)
 s=A.qs(b)
-return A.hg(new A.bu(B.cL,A.aW(A.a([q,A.ar(u.g,r,r,r,s,b.E(p).f.a.a<=375?B.al:B.av,r)],t.p),B.v,B.p,B.x),r),r,r)}}
+return A.hg(new A.bu(B.cL,A.aW(A.a([q,A.ar(u.g,r,r,r,s,b.E(p).f.a.a<=428?B.al:B.av,r)],t.p),B.v,B.p,B.x),r),r,r)}}
 A.Ts.prototype={
 G(a,b){var s=null,r=A.aZ(s,s,B.l,s,s,s,s,s,s,s,s,16,s,B.bj,s,s,!0,s,s,s,s,s,s,s,s),q=t.p
 return A.bb(s,A.aW(A.a([new A.bu(B.iT,A.ar("Jobs: 6 | Standorte: 2 | Kategorien: 1",s,s,s,A.aZ(s,s,B.l,s,s,s,s,s,s,s,s,15,s,B.A,s,2,!0,s,s,s,s,s,s,s,s).lC(B.l,16),s,s),s),B.dX,new A.bu(B.iU,new A.bt(B.ac,A.aW(A.a([A.asf(A.aZ(s,s,B.l,s,s,s,s,s,s,s,s,15,s,B.A,s,2,!0,s,s,s,s,s,s,s,s).B1(16,1),"Stellen durchsuchen"),B.aX,new A.bu(B.iW,A.aW(A.a([A.ar(u._,s,s,s,A.aZ(s,s,B.l,s,s,s,s,s,s,s,s,18,s,B.bR,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.d3,A.ar("Festanstellung, Vollzeit \xb7 Bremen",s,s,s,A.aZ(s,s,B.l,s,s,s,s,s,s,s,s,11,s,B.A,s,2.4,!0,s,s,s,s,s,s,s,s),s,s),B.a3Q,A.ar("DEINE BEWERBUNG",s,s,s,A.aZ(s,s,B.oY,s,s,s,s,s,s,s,s,24,s,B.bR,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.dW,A.ar("Wir freuen uns \xfcber Dein Interesse an der STG Gruppe als Arbeitgeber. Bitte f\xfclle das folgende kurze Formular aus. Solltest Du Schwierigkeiten mit dem Upload Deiner Daten haben, wende dich gerne per Email an .",s,s,s,r,s,s),B.bK,new A.dB(B.a2,s,s,new A.bt(B.ox,B.Ex,s),s),B.c4,A.ar("DOKUMENTE",s,s,s,A.aZ(s,s,B.oY,s,s,s,s,s,s,s,s,24,s,B.bR,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.dW,A.ar("Bitte lade hier die f\xfcr die Stelle ben\xf6tigten Bewerbungsunterlagen hoch (z.B. Lebenslauf, Anschreiben, Zeugnisse, Gehaltsvorstellung etc.).",s,s,s,r,s,s),B.bK,new A.dB(B.a2,s,s,new A.bt(B.ox,A.aW(A.a([A.ci(B.Wh,B.v,B.p,B.I),B.dX,A.ci(B.PY,B.v,B.p,B.I),B.dX,A.aqk(B.JN,"Hiermit best\xe4tige ich, dass ich die Datenschutzerkl\xe4rung zur",r.M0(11)),B.a3M,A.ci(A.a([A.m_(A.ai(B.e.aq(127.5),202,228,248),0,12,B.A,0,20,new A.ahh(),1,!1,"BEWERBUNG ABSCHICKEN",B.l),B.a3D,A.m_(B.K9,0,12,B.A,0,20,new A.ahi(),1,!1,"ABBRUCH",B.l)],q),B.v,B.p,B.I)],q),B.P,B.p,B.x),s),s)],q),B.P,B.p,B.x),s)],q),B.P,B.p,B.x),s),s)],q),B.P,B.p,B.x),B.k,s,s,s,s,B.M_,s)}}
@@ -72173,12 +72173,12 @@ G(a,b){var s=null,r=A.aZ(s,s,B.l,s,s,s,s,s,s,s,s,11,s,B.R,s,s,!0,s,s,s,s,s,s,s,s
 return A.aW(A.a([p,B.a3S,A.bb(s,A.ar("Per Klick mehrere Dateien ausw\xe4hlen oder Drag-and-drop verwenden",s,s,s,q,s,s),o,s,s,s,s,B.pD,s)],t.p),B.P,B.p,B.x)}}
 A.J0.prototype={
 G(a,b){var s=null,r=t.l,q=b.E(r).f,p=A.o2(new A.j9(A.ai(B.e.aq(127.5),0,0,0),B.cC),B.H,B.ER.eN(0).c,1.3),o=t.p,n=A.a([B.cU],o)
-if(b.E(r).f.a.a<=375)n.push(B.ce)
+if(b.E(r).f.a.a<=428)n.push(B.ce)
 n.push(B.Mm)
 return A.to(A.oA(A.a([A.bH(A.lZ(A.aW(n,B.v,B.p,B.I),new A.cB(s,p,s,s,s,s,B.a5),B.bD),q.a.b,s),B.abK,B.ip,B.abR,B.abV],o),s,!1))}}
 A.Tm.prototype={
 G(a,b){var s=null,r=A.qr(b)
-return A.hg(new A.bu(B.cL,A.ar("R\xfcckabwicklung.",s,s,s,r,b.E(t.l).f.a.a<=375?B.al:B.av,s),s),s,s)}}
+return A.hg(new A.bu(B.cL,A.ar("R\xfcckabwicklung.",s,s,s,r,b.E(t.l).f.a.a<=428?B.al:B.av,s),s),s,s)}}
 A.Tt.prototype={
 G(a,b){var s=null
 return A.bb(s,new A.bt(B.ac,new A.rR("Unseren zweiten Kernbereich stellt das Thema R\xfcckabwicklung dar.\nSie haben einen alten, noch laufenden Vertrag aus den folgenden Kategorien und fragen sich, ob dieser \xfcberhaupt noch zeitgem\xe4\xdf, geschweige denn verbraucherschutzkonform ist?\n - Lebens- und Rentenversicherungen\n - Bausparvertr\xe4ge\n - Riester-Vertr\xe4ge\n - Unfallversicherungen mit Beitragsr\xfcckgew\xe4hr\n - staatlich gef\xf6rderte Zukunftsvorsorgen\n - betriebliche Altersvorsorgen\n - \xdcber das zur Unternehmensgruppe geh\xf6rende Unternehmen LIQIDA helfen wir Ihnen, Ihre Vertr\xe4ge zu pr\xfcfen.\n          ","Welche Vorteile hat diese Dienstleistung konkret f\xfcr Sie?\nStatt einer K\xfcndigung l\xf6sen wir den Vertrag f\xfcr Sie auf, wenn die Pr\xfcfung ergibt, dass der geschlossene Vertrag fehlerhaft oder sogar rechtswidrig ist. Dadurch vermeiden Sie Strafgeb\xfchren und eine unn\xf6tig hohe Steuerlast, die bei einer klassischen K\xfcndigung entstehen w\xfcrde.\nBei vollst\xe4ndigem Einreichen der ben\xf6tigten Unterlagen bekommen Sie bereits binnen 18 Tagen das eingelegte Geld aus Ihrem Vertrag ausgezahlt (Option 1).\nWir empfehlen hier jedoch, mit einer unserer Anlagestrategien den R\xfcckkaufswert direkt beim Einreichen der Unterlagen zu reinvestieren, sodass Ihr Verm\xf6gen fortan wirklich f\xfcr Sie arbeiten kann (Option 2).\nNach der R\xfcckabwicklung wird \xfcber einen Zeitraum von sechs bis 24 Monaten der Vertrag und dessen AGB erneut durch Rechtsanw\xe4lte gepr\xfcft. 50% unserer Kunden werden nach dieser Pr\xfcfung im Durchschnitt noch einmal zus\xe4tzlich zwischen 10 und 20 % Ihres R\xfcckkaufswertes ausgesch\xfcttet.\nWie das funktioniert, erkl\xe4ren wir Ihnen gerne in einer pers\xf6nlichen Beratung mit uns.\n          ",B.EG.eN(0).c,B.EH.eN(0).c,s),s),B.k,s,s,s,s,B.iV,s)}}
@@ -72190,14 +72190,14 @@ G(a,b){var s=null
 return A.bb(s,new A.bt(B.ac,B.cB,s),B.k,s,s,s,s,B.M6,s)}}
 A.Lj.prototype={
 G(a,b){var s=null,r=t.l,q=b.E(r).f,p=A.o2(s,B.H,B.iq.eN(0).c,1.3),o=t.p,n=A.a([B.cU],o)
-if(b.E(r).f.a.a<=375)n.push(B.ce)
+if(b.E(r).f.a.a<=428)n.push(B.ce)
 n.push(B.Mk)
 return A.to(A.oA(A.a([A.bH(A.lZ(A.aW(n,B.v,B.p,B.I),new A.cB(s,p,s,s,s,s,B.a5),B.bD),q.a.b,s),B.abI,B.abP],o),s,!1))}}
 A.Tn.prototype={
 G(a,b){var s,r=null,q=A.qr(b),p=t.l
-q=A.ar("Offene Stellenangebote",r,r,r,q,b.E(p).f.a.a<=375?B.al:B.av,r)
+q=A.ar("Offene Stellenangebote",r,r,r,q,b.E(p).f.a.a<=428?B.al:B.av,r)
 s=A.qs(b)
-return A.hg(new A.bu(B.cL,A.aW(A.a([q,A.ar(u.g,r,r,r,s,b.E(p).f.a.a<=375?B.al:B.av,r)],t.p),B.v,B.p,B.x),r),r,r)}}
+return A.hg(new A.bu(B.cL,A.aW(A.a([q,A.ar(u.g,r,r,r,s,b.E(p).f.a.a<=428?B.al:B.av,r)],t.p),B.v,B.p,B.x),r),r,r)}}
 A.Tu.prototype={
 G(a,b){var s=null,r=A.aZ(s,s,B.Jp,s,s,s,s,s,s,s,s,20,s,B.bR,s,s,!0,s,s,s,s,s,s,s,s),q=A.aZ(s,s,B.l,s,s,s,s,s,s,s,s,20,s,B.R,s,s,!0,s,s,s,s,s,s,s,s),p=A.aZ(s,s,B.l,s,s,s,s,s,s,s,s,12,s,B.A,s,s,!0,s,s,s,s,s,s,s,s),o=t.p
 return A.bb(s,A.aW(A.a([new A.bu(B.iT,A.ar("Jobs: 6 | Standorte: 2 | Kategorien: 1",s,s,s,A.aZ(s,s,B.l,s,s,s,s,s,s,s,s,15,s,B.A,s,2,!0,s,s,s,s,s,s,s,s).lC(B.l,16),s,s),s),B.a3O,new A.bu(B.iU,new A.bt(B.ac,A.aW(A.a([new A.Av("Stellen durchsuchen",A.aZ(s,s,B.l,s,s,s,s,s,s,s,s,15,s,B.A,s,2,!0,s,s,s,s,s,s,s,s).B1(16,1),B.Ej,s),B.bK,new A.bu(B.iW,A.aW(A.a([A.ar("Bremen",s,s,s,r,s,s),B.bK,new A.kj(q,p,B.Ut,s),B.aX,new A.kj(q,p,B.S_,s),B.aX,new A.kj(q,p,B.UN,s),B.aX,new A.kj(q,p,B.Ql,s),B.aX,new A.kj(q,p,B.U1,s),B.c4,A.ar("Hamburg",s,s,s,r,s,s),B.bK,new A.kj(q,p,B.NZ,s)],o),B.P,B.p,B.x),s)],o),B.v,B.p,B.x),s),s)],o),B.P,B.p,B.x),B.k,s,s,s,s,B.LY,s)}}
@@ -72215,14 +72215,14 @@ G(a,b){var s=null
 return A.bb(s,new A.bt(B.ac,B.cB,s),B.k,s,s,s,s,B.ef,s)}}
 A.Od.prototype={
 G(a,b){var s=null,r=t.l,q=b.E(r).f,p=A.o2(s,B.H,B.iq.eN(0).c,1.3),o=t.p,n=A.a([B.cU],o)
-if(b.E(r).f.a.a<=375)n.push(B.ce)
+if(b.E(r).f.a.a<=428)n.push(B.ce)
 n.push(B.Mj)
 return A.to(A.oA(A.a([A.bH(A.lZ(A.aW(n,B.v,B.p,B.I),new A.cB(s,p,s,s,s,s,B.a5),B.bD),q.a.b,s),B.abH,B.abO],o),s,!1))}}
 A.To.prototype={
 G(a,b){var s,r=null,q=A.qr(b),p=t.l
-q=A.ar("Offene Stellenangebote",r,r,r,q,b.E(p).f.a.a<=375?B.al:B.av,r)
+q=A.ar("Offene Stellenangebote",r,r,r,q,b.E(p).f.a.a<=428?B.al:B.av,r)
 s=A.qs(b)
-return A.hg(new A.bu(B.cL,A.aW(A.a([q,A.ar(u.g,r,r,r,s,b.E(p).f.a.a<=375?B.al:B.av,r)],t.p),B.v,B.p,B.x),r),r,r)}}
+return A.hg(new A.bu(B.cL,A.aW(A.a([q,A.ar(u.g,r,r,r,s,b.E(p).f.a.a<=428?B.al:B.av,r)],t.p),B.v,B.p,B.x),r),r,r)}}
 A.Tv.prototype={
 G(a,b){var s=null,r=A.aZ(s,s,B.l,s,s,s,s,s,s,s,s,14,s,B.bR,s,s,!0,s,s,s,s,s,s,s,s),q=A.aZ(s,s,B.l,s,s,s,s,s,s,s,s,11,s,B.A,s,2.4,!0,s,s,s,s,s,s,s,s),p=t.p
 return A.bb(s,A.aW(A.a([new A.bu(B.iT,A.ar("Jobs: 6 | Standorte: 2 | Kategorien: 1",s,s,s,A.aZ(s,s,B.l,s,s,s,s,s,s,s,s,15,s,B.A,s,2,!0,s,s,s,s,s,s,s,s).lC(B.l,16),s,s),s),B.dX,new A.bu(B.iU,new A.bt(B.ac,A.aW(A.a([A.asf(A.aZ(s,s,B.l,s,s,s,s,s,s,s,s,15,s,B.A,s,2,!0,s,s,s,s,s,s,s,s).B1(16,1),"Stellen durchsuchen"),B.aX,new A.bu(B.iW,A.aW(A.a([A.ar(u._,s,s,s,r.M0(18),s,s),B.d3,A.ar("Festanstellung, Vollzeit \xb7 Bremen",s,s,s,q,s,s),B.a3I,A.ar("DEINE BENEFITS",s,s,s,r,s,s),B.d3,A.ar(" - Krisensicher in die Zukunft: Glasfasernetze gelten als Infrastruktur der Zukunft. Profitiere von dem Einstieg in eine der perspektivreichsten Branchen in einem mittelst\xe4ndischen Arbeitsumfeld\n - Wir investieren in Dich: Du kannst auf ein vielf\xe4ltiges Weiterbildungsangebot zugreifen\n - Gewinne Sicherheit im Job: Du erh\xe4ltst einen unbefristeten Arbeitsvertrag in einem systemrelevanten Unternehmen\n - Dein Start bei uns: Freu Dich auf eine sorgf\xe4ltige und umfangreiche Einarbeitung in unserer Zentrale in Bochum\n - Wir geben Dir Freiraum: Flexible Arbeitszeitregelungen und mobiles Arbeiten erm\xf6glichen es Dir, Privates und Berufliches miteinander zu verbinden \n - Sei Teil unserer Gemeinschaft: Dich erwartet ein vertrauensvolles Miteinander in einer dynamischen und innovativen Atmosph\xe4re sowie tolle Firmenevents\n - Plane mit uns Deine Zukunft: Du erh\xe4ltst eine leistungsgerechte Verg\xfctung sowie eine betriebliche Altersvorsorge f\xfcr Deine Zukunftsplanung\n                          ",s,s,s,q,s,s),B.aX,A.ar("DEIN AUFGABENBEREICH",s,s,s,r,s,s),B.d3,A.ar(" - Du \xfcberwachst die Bauma\xdfnahmen zum Ausbau von Glasfasernetzen\n - Du kommunizierst mit den Baubeteiligten, Kunden und Fachbereichen\n - Du erfasst, dokumentierst und pflegst die Bauleistungen in unserer Software\n - Du erstellst Feldaufma\xdfe und Bilddokumetationen von Tiefbauma\xdfnahmen\n - Du bist f\xfcr die Vermessung und Dokumentation der Bauma\xdfnahme in CAD/GIS Systemen zust\xe4ndig\n - Du f\xfchrst Qualit\xe4tskontrollen durch und dokumentierst diese\n - Du organisierst die kaufm\xe4nnische Sachbearbeitung selbstst\xe4ndig\n                          ",s,s,s,q,s,s),B.aX,A.ar("DEINE KOMPETENZEN",s,s,s,r,s,s),B.d3,A.ar(" - Du verf\xfcgst \xfcber eine erfolgreich abgeschlossene Ausbildung als technischer Zeichner, Vermesser (m/w/d) oder vergleichbare Qualifikation\n - Du besitzt Erfahrung im Baugewerbe und Kenntnisse mit CAD und/oder GIS-Systemen\n - Du bist sicher in der Anwendung von MS Office\n - Du arbeitest selbstst\xe4ndig und kundenorientiert\n - Du bist teamf\xe4hig, besitzt eine hohe Lernbereitschaft sowie engagierte Arbeitsweise und bist belastbar\n - Du besitzt einen F\xfchrerschein Klasse B\n                          ",s,s,s,q,s,s),B.aX,A.ar("KONTAKT",s,s,s,r,s,s),B.d3,A.ar("Wenn Du Teil unseres Teams werden m\xf6chtest, dann freuen wir uns auf Deine Bewerbung. Bewirb Dich jetzt bei uns \xfcber unser Online-Formular oder per E-Mail an jobs@fe-construction.de.",s,s,s,q,s,s),B.aX,A.ar("\xdcBER UNS",s,s,s,r,s,s),B.d3,A.ar("Wir, die FE CONSTRUCTION, sind als Generalunternehmer spezialisiert auf den Breitbandausbau, die Erstellung und den Betrieb f\xfcr FTTH-Glasfaser-Infrastrukturen. Wir arbeiten bundesweit und haben unsere Wurzeln in Bochum in Nordrhein-Westfalen. Um unser ambitioniertes Wachstum voranzutreiben, sind wir seit 2021 eines der Portfolio Unternehmen der vitronet Gruppe.\n\nUnsere Kunden sind private und \xf6ffentliche Auftraggeber. Dazu z\xe4hlen Stadtwerke und Kommunen, die Wohnungswirtschaft, Netzbetreiber und Versorgungsunternehmen. Wir arbeiten kooperativ und auf Augenh\xf6he mit ihnen zusammen \u2013 und f\xfchren unsere Projekte gemeinsam nachhaltig zum Erfolg.\n                          ",s,s,s,q,s,s),B.c4,A.m_(s,3,s,s,0,25,new A.ahj(),0.8,!1,"Jetzt bewerben",B.l)],p),B.P,B.p,B.x),s)],p),B.P,B.p,B.x),s),s)],p),B.P,B.p,B.x),B.k,s,s,s,s,B.LZ,s)}}
@@ -72234,7 +72234,7 @@ G(a,b){var s=null
 return A.bb(s,new A.bt(B.ac,B.cB,s),B.k,s,s,s,s,B.ef,s)}}
 A.OA.prototype={
 G(a,b){var s=null,r=t.l,q=b.E(r).f,p=A.o2(new A.j9(A.ai(B.e.aq(127.5),0,0,0),B.cC),B.H,B.ED.eN(0).c,1.3),o=t.p,n=A.a([B.cU],o)
-if(b.E(r).f.a.a<=375)n.push(B.ce)
+if(b.E(r).f.a.a<=428)n.push(B.ce)
 n.push(B.Mn)
 return A.to(A.oA(A.a([A.bH(A.lZ(A.aW(n,B.v,B.p,B.I),new A.cB(s,p,s,s,s,s,B.a5),B.bD),q.a.b,s),B.abL,B.ip,B.abS,B.abW],o),s,!1))}}
 A.Tw.prototype={
@@ -72242,7 +72242,7 @@ G(a,b){var s=null
 return A.bb(s,new A.bt(B.ac,new A.rR(u.Z,u.m,B.EI.eN(0).c,B.oe.eN(0).c,s),s),B.k,s,s,s,s,B.iV,s)}}
 A.Tp.prototype={
 G(a,b){var s=null,r=A.qr(b)
-return A.hg(new A.bu(B.cL,A.ar("Unternehmensberatung.",s,s,s,r,b.E(t.l).f.a.a<=375?B.al:B.av,s),s),s,s)}}
+return A.hg(new A.bu(B.cL,A.ar("Unternehmensberatung.",s,s,s,r,b.E(t.l).f.a.a<=428?B.al:B.av,s),s),s,s)}}
 A.TD.prototype={
 G(a,b){var s=null
 return new A.i1(B.k,A.bb(s,A.aW(A.a([new A.dB(B.aD,s,s,A.ar("Anwendungsbeispiele",s,s,s,A.aZ(s,s,s,s,s,s,s,s,s,s,s,36,s,B.ei,s,s,!0,s,s,s,s,s,s,s,s).cn(B.di),s,s),s),new A.dB(B.aD,s,s,A.ar("Unternehmensberatung.",s,s,s,A.aZ(s,s,s,s,s,s,s,s,s,s,s,48,s,B.R,s,s,!0,s,s,s,s,s,s,s,s).cn(B.di),s,s),s),B.c4,new A.bt(B.ac,B.hT,s)],t.p),B.v,B.p,B.x),s,s,B.cE,s,s,B.iS,s),s)}}
@@ -72251,7 +72251,7 @@ G(a,b){var s=null
 return A.bb(s,new A.bt(B.ac,B.cB,s),B.k,s,s,s,s,B.ef,s)}}
 A.ON.prototype={
 G(a,b){var s=null,r=t.l,q=b.E(r).f,p=A.o2(new A.j9(A.ai(B.e.aq(127.5),0,0,0),B.cC),B.H,B.EJ.eN(0).c,1.3),o=t.p,n=A.a([B.cU],o)
-if(b.E(r).f.a.a<=375)n.push(B.ce)
+if(b.E(r).f.a.a<=428)n.push(B.ce)
 n.push(B.Ml)
 return A.to(A.oA(A.a([A.bH(A.lZ(A.aW(n,B.v,B.p,B.I),new A.cB(s,p,s,s,s,s,B.a5),B.bD),q.a.b,s),B.abJ,B.ip,B.abQ,B.abU],o),s,!1))}}
 A.Tx.prototype={
@@ -72259,7 +72259,7 @@ G(a,b){var s=null
 return A.bb(s,new A.bt(B.ac,new A.rR(u.Z,u.m,B.EF.eN(0).c,B.oe.eN(0).c,s),s),B.k,s,s,s,s,B.iV,s)}}
 A.Tq.prototype={
 G(a,b){var s=null,r=A.qr(b)
-return A.hg(new A.bu(B.cL,A.ar("Verm\xf6gensschutz & Investment.",s,s,s,r,b.E(t.l).f.a.a<=375?B.al:B.av,s),s),s,s)}}
+return A.hg(new A.bu(B.cL,A.ar("Verm\xf6gensschutz & Investment.",s,s,s,r,b.E(t.l).f.a.a<=428?B.al:B.av,s),s),s,s)}}
 A.TE.prototype={
 G(a,b){var s=null
 return new A.i1(B.k,A.bb(s,A.aW(A.a([new A.dB(B.aD,s,s,A.ar("Anwendungsbeispiele",s,s,s,A.aZ(s,s,s,s,s,s,s,s,s,s,s,36,s,B.ei,s,s,!0,s,s,s,s,s,s,s,s).cn(B.di),s,s),s),new A.dB(B.aD,s,s,A.ar("Leanmanagement.",s,s,s,A.aZ(s,s,s,s,s,s,s,s,s,s,s,48,s,B.R,s,s,!0,s,s,s,s,s,s,s,s).cn(B.di),s,s),s),B.c4,new A.bt(B.ac,B.hT,s)],t.p),B.v,B.p,B.x),s,s,B.cE,s,s,B.iS,s),s)}}
