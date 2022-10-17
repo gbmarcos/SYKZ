@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aed4b6fa-54c4-4dae-b5c2-1e237139ca0e" name="Default Changelist" comment="added new changes:&#10;- smooth typewriter animation.&#10;- Card Actions.&#10;..And more" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="6b647541-7873-4e3a-84c9-057c4c764cf6" />
+  </component>
+  <component name="ProjectId" id="2EPSkWX4fv5dKvntZybK5kAnvIU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Documents/SDK-Android-sdsdsd" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aed4b6fa-54c4-4dae-b5c2-1e237139ca0e" name="Default Changelist" comment="" />
+      <created>1662495869269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662495869269</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added functionality to precache image">
+      <created>1662496135437</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662496135437</updated>
+    </task>
+    <task id="LOCAL-00002" summary="built to canvaskit">
+      <created>1662503479264</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662503479264</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add animation">
+      <created>1662532190588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662532190588</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add animation">
+      <created>1662846158740</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662846158740</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixed some text">
+      <created>1665082028188</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665082028188</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added new changes">
+      <created>1665668613414</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665668613414</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix bars color on safari">
+      <created>1665775797534</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665775797534</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added new changes:&#10;- smooth typewriter animation.&#10;- Card Actions.&#10;..And more">
+      <created>1666016860149</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666016860149</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added functionality to precache image" />
+    <MESSAGE value="built to canvaskit" />
+    <MESSAGE value="add animation" />
+    <MESSAGE value="fixed some text" />
+    <MESSAGE value="added new changes" />
+    <MESSAGE value="fix bars color on safari" />
+    <MESSAGE value="added new changes:&#10;- smooth typewriter animation.&#10;- Card Actions.&#10;..And more" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new changes:&#10;- smooth typewriter animation.&#10;- Card Actions.&#10;..And more" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="107" width="444" height="513" key="FileChooserDialogImpl" timestamp="1662495943850">
+      <screen x="0" y="0" width="1360" height="732" />
+    </state>
+    <state x="453" y="107" width="444" height="513" key="FileChooserDialogImpl/0.0.1360.732@0.0.1360.732" timestamp="1662495943850" />
+    <state x="513" y="278" width="324" height="171" key="Github.Dialog.Accounts.Choose" timestamp="1662496184298">
+      <screen x="0" y="0" width="1360" height="732" />
+    </state>
+    <state x="513" y="278" width="324" height="171" key="Github.Dialog.Accounts.Choose/0.0.1360.732@0.0.1360.732" timestamp="1662496184298" />
+    <state x="263" y="111" width="824" height="506" key="IDE.errors.dialog" timestamp="1662496198559">
+      <screen x="0" y="0" width="1360" height="732" />
+    </state>
+    <state x="263" y="111" width="824" height="506" key="IDE.errors.dialog/0.0.1360.732@0.0.1360.732" timestamp="1662496198559" />
+    <state x="275" y="101" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1666016867609">
+      <screen x="0" y="0" width="1360" height="732" />
+    </state>
+    <state x="275" y="101" width="800" height="526" key="Vcs.Push.Dialog.v2/0.0.1360.732@0.0.1360.732" timestamp="1666016867609" />
+    <state x="461" y="278" width="428" height="172" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1665775758674">
+      <screen x="0" y="0" width="1360" height="732" />
+    </state>
+    <state x="461" y="278" width="428" height="172" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1360.732@0.0.1360.732" timestamp="1665775758674" />
+  </component>
+</project>
