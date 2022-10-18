@@ -69914,18 +69914,21 @@ return A.bl(q,A.b8(A.a([new A.bm(new A.a6(s,0,s,0),r,q),B.b4,new A.bm(new A.a6(p
 A.Ce.prototype={
 Z(){return new A.R6(new A.aT(1,$.al(),t.bm),B.j)}}
 A.R6.prototype={
-E(a){var s,r,q,p=null,o="Jetzt mehr erfahren",n=t.l,m=a.u(n).f.a.a>834?80:54,l=a.u(n).f.a.a>834?B.DC:B.a2j,k=a.u(n).f.a.a>834?20:13,j=a.u(n).f.a.a>834?154:100,i=A.qA(a).gcA().a
-i===$&&A.b()
-t.LG.a(i)
-if(a.u(n).f.a.a>834)s=100
+E(a){var s,r,q,p,o,n,m=null,l="Jetzt mehr erfahren",k=t.l,j=a.u(k).f.a.a>834?80:54,i=a.u(k).f.a.a>834?B.DC:B.a2j,h=a.u(k).f.a.a>834?20:13,g=a.u(k).f.a.a>834?154:100,f=A.qA(a).gcA().a
+f===$&&A.b()
+t.LG.a(f)
+if(a.u(k).f.a.a>834)s=100
 else s=A.bv(a)?80:30
-if(a.u(n).f.a.a>834)r=100
+if(a.u(k).f.a.a>834)r=100
 else r=A.bv(a)?80:30
-if(a.u(n).f.a.a<=440){n=l.b
-q=l.a
-i=A.b8(A.a([A.aO("Kompetenzen",p,p,p,p,A.fS(a).cz(B.on),p,p),B.dC,new A.kj(B.nh.dP(0,B.D,n,q),"Unternehmens-beratung",o,0,new A.agT(i),p),B.bY,new A.kj(B.ni.dP(0,B.D,n,q),"R\xfcckabwicklung",o,0,new A.agU(i),p),B.bY,new A.kj(B.nj.dP(0,B.D,n,q),"Investment & Verm\xf6gensschutz",o,0,new A.agV(i),p)],t.p),B.v,B.o,B.t)
-n=i}else n=A.B4(new A.agW(m,l,i,k),this.d,t.i)
-return new A.lr(new A.agX(this,a),new A.hi(B.i,new A.bm(new A.a6(s,20,r,j),new A.bI(B.an,n,p),p),p),B.a8i)}}
+if(a.u(k).f.a.a<=440){q=A.aO("Kompetenzen",m,m,m,m,A.fS(a).cz(B.on),m,m)
+p=i.b
+o=i.a
+n=B.nh.dP(0,B.D,p,o)
+k=a.u(k).f.a.a>834?"":"-"
+f=A.b8(A.a([q,B.dC,new A.kj(n,"Unternehmens"+k+"beratung",l,0,new A.agT(f),m),B.bY,new A.kj(B.ni.dP(0,B.D,p,o),"R\xfcckabwicklung",l,0,new A.agU(f),m),B.bY,new A.kj(B.nj.dP(0,B.D,p,o),"Investment & Verm\xf6gensschutz",l,0,new A.agV(f),m)],t.p),B.v,B.o,B.t)
+k=f}else k=A.B4(new A.agW(j,i,f,h),this.d,t.i)
+return new A.lr(new A.agX(this,a),new A.hi(B.i,new A.bm(new A.a6(s,20,r,g),new A.bI(B.an,k,m),m),m),B.a8i)}}
 A.agX.prototype={
 $1(a){var s,r=a.c,q=A.B7(a,this.b)
 if(!r.gS(r)){s=r.b>0?1:q
@@ -69950,12 +69953,13 @@ s.aj()
 return B.hi},
 $S:0}
 A.agW.prototype={
-$3(a,b,c){var s,r,q,p=this,o=null,n="Jetzt mehr erfahren",m=p.a,l=m*b,k=p.b,j=k.a
-k=k.b
-s=p.c
-r=p.d
-q=t.p
-return A.hN(B.bj,A.a([A.yS(A.ci(A.a([A.ib(new A.kj(B.nh.j6(0,B.D,k),"Unternehmens-beratung",n,2*m-l,new A.agQ(s),o),j),A.br(o,o,r),A.ib(new A.kj(B.ni.j6(0,B.D,k),"R\xfcckabwicklung",n,m,new A.agR(s),o),j),A.br(o,o,r),A.ib(new A.kj(B.nj.j6(0,B.D,k),"Investment & Verm\xf6gensschutz",n,l,new A.agS(s),o),j)],q),B.E,B.bQ,B.J),b),A.p7(o,A.aO("Kompetenzen",o,o,o,o,A.fS(a).cz(B.on),o,o),o,o,0,o,0,o)],q),B.aT,o,o)},
+$3(a,b,c){var s,r,q,p,o=this,n=null,m="Jetzt mehr erfahren",l=o.a,k=l*b,j=o.b,i=j.a
+j=j.b
+s=B.nh.j6(0,B.D,j)
+r=o.c
+q=o.d
+p=t.p
+return A.hN(B.bj,A.a([A.yS(A.ci(A.a([A.ib(new A.kj(s,"Unternehmens"+(a.u(t.l).f.a.a>834?"":"-")+"beratung",m,2*l-k,new A.agQ(r),n),i),A.br(n,n,q),A.ib(new A.kj(B.ni.j6(0,B.D,j),"R\xfcckabwicklung",m,l,new A.agR(r),n),i),A.br(n,n,q),A.ib(new A.kj(B.nj.j6(0,B.D,j),"Investment & Verm\xf6gensschutz",m,k,new A.agS(r),n),i)],p),B.E,B.bQ,B.J),b),A.p7(n,A.aO("Kompetenzen",n,n,n,n,A.fS(a).cz(B.on),n,n),n,n,0,n,0,n)],p),B.aT,n,n)},
 $S:479}
 A.agQ.prototype={
 $0(){var s=this.a

@@ -24,6 +24,10 @@
   <component name="ChangeListManager">
     <list default="true" id="aed4b6fa-54c4-4dae-b5c2-1e237139ca0e" name="Default Changelist" comment="changed icon, title and description">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/images/member_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/assets/images/member_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_service_worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_service_worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.dart.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.dart.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666034507069</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="changed icon, title and description">
+      <created>1666037576864</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666037576864</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,10 +176,10 @@
       <screen x="0" y="0" width="1360" height="732" />
     </state>
     <state x="263" y="111" width="824" height="506" key="IDE.errors.dialog/0.0.1360.732@0.0.1360.732" timestamp="1662496198559" />
-    <state x="275" y="101" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1666034523379">
+    <state x="275" y="101" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1666037591150">
       <screen x="0" y="0" width="1360" height="732" />
     </state>
-    <state x="275" y="101" width="800" height="526" key="Vcs.Push.Dialog.v2/0.0.1360.732@0.0.1360.732" timestamp="1666034523379" />
+    <state x="275" y="101" width="800" height="526" key="Vcs.Push.Dialog.v2/0.0.1360.732@0.0.1360.732" timestamp="1666037591150" />
     <state x="461" y="278" width="428" height="172" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1665775758674">
       <screen x="0" y="0" width="1360" height="732" />
     </state>
