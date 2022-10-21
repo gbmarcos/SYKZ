@@ -22,12 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aed4b6fa-54c4-4dae-b5c2-1e237139ca0e" name="Default Changelist" comment="changed icon, title and description">
+    <list default="true" id="aed4b6fa-54c4-4dae-b5c2-1e237139ca0e" name="Default Changelist" comment="fixed last issues">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/assets/images/member_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/assets/images/member_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_service_worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_service_worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.dart.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.dart.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666037576864</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="fixed last issues">
+      <created>1666294466750</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666294466750</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,7 +164,8 @@
     <MESSAGE value="fix bars color on safari" />
     <MESSAGE value="added new changes:&#10;- smooth typewriter animation.&#10;- Card Actions.&#10;..And more" />
     <MESSAGE value="changed icon, title and description" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed icon, title and description" />
+    <MESSAGE value="fixed last issues" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed last issues" />
   </component>
   <component name="WindowStateProjectService">
     <state x="453" y="107" width="444" height="513" key="FileChooserDialogImpl" timestamp="1662495943850">
@@ -176,10 +180,10 @@
       <screen x="0" y="0" width="1360" height="732" />
     </state>
     <state x="263" y="111" width="824" height="506" key="IDE.errors.dialog/0.0.1360.732@0.0.1360.732" timestamp="1662496198559" />
-    <state x="275" y="101" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1666037591150">
+    <state x="275" y="101" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1666294753897">
       <screen x="0" y="0" width="1360" height="732" />
     </state>
-    <state x="275" y="101" width="800" height="526" key="Vcs.Push.Dialog.v2/0.0.1360.732@0.0.1360.732" timestamp="1666037591150" />
+    <state x="275" y="101" width="800" height="526" key="Vcs.Push.Dialog.v2/0.0.1360.732@0.0.1360.732" timestamp="1666294753897" />
     <state x="461" y="278" width="428" height="172" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1665775758674">
       <screen x="0" y="0" width="1360" height="732" />
     </state>
