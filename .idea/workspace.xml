@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aed4b6fa-54c4-4dae-b5c2-1e237139ca0e" name="Default Changelist" comment="fixed last issues">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aed4b6fa-54c4-4dae-b5c2-1e237139ca0e" name="Default Changelist" comment="fixed last issues" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666294466750</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="fixed last issues">
+      <created>1666341088929</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666341088929</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,10 +185,10 @@
       <screen x="0" y="0" width="1360" height="732" />
     </state>
     <state x="263" y="111" width="824" height="506" key="IDE.errors.dialog/0.0.1360.732@0.0.1360.732" timestamp="1662496198559" />
-    <state x="275" y="101" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1666294753897">
+    <state x="275" y="101" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1666341121032">
       <screen x="0" y="0" width="1360" height="732" />
     </state>
-    <state x="275" y="101" width="800" height="526" key="Vcs.Push.Dialog.v2/0.0.1360.732@0.0.1360.732" timestamp="1666294753897" />
+    <state x="275" y="101" width="800" height="526" key="Vcs.Push.Dialog.v2/0.0.1360.732@0.0.1360.732" timestamp="1666341121032" />
     <state x="461" y="278" width="428" height="172" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1665775758674">
       <screen x="0" y="0" width="1360" height="732" />
     </state>

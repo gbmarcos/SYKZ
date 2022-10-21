@@ -70537,7 +70537,7 @@ p=r}return p},
 E(a){var s,r,q=null
 if(this.gdI()!=null){s=this.gdI()
 r=J.h(s==null?q:s.a,B.ed)}else r=!0
-return A.fV(new A.bm(B.d0,new A.rW(r,"Unternehmensberatung.",q),q),q,q)}}
+return A.fV(new A.bm(B.d0,new A.rW(r,"Unternehmens"+(a.t(t.l).f.a.a>834?"":"-")+"beratung.",q),q),q,q)}}
 A.ajs.prototype={
 $1(a){var s=this.a.gdI()
 if(s==null)s=null
